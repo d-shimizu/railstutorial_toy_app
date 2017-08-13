@@ -24,3 +24,5 @@ end
 group :production do
   gem 'pg'
 end
+
+gem 'therubyracer', platforms: :ruby
